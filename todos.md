@@ -1,0 +1,5 @@
+- [ ] basic graphics
+- [ ] stroke animation
+- [ ] transforms
+- [ ] animation with transform and morph
+- [ ] event listeners
